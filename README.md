@@ -1,6 +1,6 @@
 # Business_Insights_360_Analysis
 
-[homeview dashboard](https://github.com/mdnazrulislam-code/Business_insight_powerbi/blob/main/Screenshot%202024-03-05%20215624.png)
+![homeview dashboard](https://github.com/mdnazrulislam-code/Business_insight_powerbi/blob/main/Screenshot%202024-03-05%20215624.png)
 
 Atliq Hardwares is a company which sells hardware items such as PC, Laptop, Mouse, Printers and many more to different customers. They manufacture and sell hardware items through different channels mentioned below:
 
